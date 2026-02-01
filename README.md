@@ -1,3 +1,5 @@
+⚠️ Licensed under Creative Command Zero v1.0 — see LICENSE for details.
+
 ## License
 
 This repository is licensed under **Creative Command Zero v1.0**. All content is © 2026 Dónal Ó Gaora.  
